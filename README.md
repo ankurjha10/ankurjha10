@@ -1,5 +1,5 @@
-![logo](https://github.com/ankurjha10/ankurjha10/blob/72b8573eeee2c3593f2a8ed05ea8065fedc3e44b/image.png)
 <h1 align="center">Hi 👋, I'm Ankur Jha</h1>
+![logo](https://github.com/ankurjha10/ankurjha10/blob/72b8573eeee2c3593f2a8ed05ea8065fedc3e44b/image.png)
 <h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
