@@ -1,11 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=700&height=80&lines=Hey+%F0%9F%91%8B+I'm+Ankur+Jha;Full-Stack+Java+Developer;Building+things+that+actually+work." alt="Typing SVG" />
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░                                                                        ░
+░  █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗██████╗         ██╗██╗  ██╗ █████╗  ░
+░ ██╔══██╗████╗  ██║██║ ██╔╝██║   ██║██╔══██╗        ██║██║  ██║██╔══██╗ ░
+░ ███████║██╔██╗ ██║█████╔╝ ██║   ██║██████╔╝        ██║███████║███████║ ░
+░ ██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║██╔══██╗   ██   ██║██╔══██║██╔══██║ ░
+░ ██║  ██║██║ ╚████║██║  ██╗╚██████╔╝██║  ██║   ╚█████╔╝██║  ██║██║  ██║ ░
+░ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ░
+░                                                                        ░
+░              ⚡  Full-Stack Java Developer  |  India 🇮🇳  ⚡            ░
+░                                                                        ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Writing+bugs...+I+mean+features.+%F0%9F%90%9B" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ankurjha10&style=for-the-badge&color=F89820&labelColor=0d1117&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ankurjha10?style=for-the-badge&color=F89820&labelColor=0d1117&label=FOLLOWERS" />
+![Profile Views](https://komarev.com/ghpvc/?username=ankurjha10&style=for-the-badge&color=F89820&labelColor=0d1117&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ankurjha10?style=for-the-badge&color=F89820&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -13,25 +28,38 @@
 
 ## ⚡ About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-🧑‍💻 &nbsp; **Full-Stack Java Developer** from **India 🇮🇳**
-
-🚀 &nbsp; Currently building **Full-Stack Web Applications**
-
-🌱 &nbsp; Deepening my skills in **Spring Boot, React, System Design & DSA**
-
-🎯 &nbsp; Goal: Build real-world products people **actually** use
-
-☕ &nbsp; Powered by Java, curiosity, and too much coffee
-
-😄 &nbsp; *Fun fact: I break my code more than I break a sweat — and somehow, that's still called progress*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🙋‍♂️ Who am I?</h3>
+      <p>
+        I'm <strong>Ankur Jha</strong>, a passionate <strong>Full-Stack Java Developer</strong> from <strong>India 🇮🇳</strong>. I love building web applications from the ground up — backend APIs to polished frontends.
+      </p>
+      <p>
+        I believe in writing code that is clean, scalable, and actually ships. Currently deep in the Java ecosystem and levelling up every single day.
+      </p>
+      <p><em>"I break my code more than I break a sweat — and somehow, that's still called progress." 😄</em></p>
+    </td>
+    <td width="50%">
+      <table>
+        <tr><td>🚀 <strong>Currently Building</strong></td><td>Full-Stack Web Apps</td></tr>
+        <tr><td>🌱 <strong>Learning</strong></td><td>Spring Boot · React · DSA</td></tr>
+        <tr><td>☕ <strong>Primary Language</strong></td><td>Java</td></tr>
+        <tr><td>🎯 <strong>Goal</strong></td><td>Ship products people use</td></tr>
+        <tr><td>📍 <strong>Location</strong></td><td>India 🇮🇳</td></tr>
+        <tr><td>💬 <strong>Ask me about</strong></td><td>Java · Spring · Web Dev</td></tr>
+        <tr><td>📫 <strong>Reach me at</strong></td><td>jhaankur33@gmail.com</td></tr>
+        <tr><td>⚡ <strong>Fun fact</strong></td><td>git commit -m "fixed bug by creating 3 more"</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☕ Core — Java Ecosystem
+### ☕ Java Ecosystem
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -113,8 +141,12 @@
 
 <div align="center">
 
-*"Every line of code is a step closer to something great."*
-
-**☕ Keep coding. Keep building. Keep shipping.**
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║   "First, solve the problem. Then, write the code."  ║
+  ║                                                      ║
+  ║         ☕  Keep coding. Keep shipping.  🚀           ║
+  ╚══════════════════════════════════════════════════════╝
+```
 
 </div>
