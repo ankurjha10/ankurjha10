@@ -101,12 +101,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankurjha10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F89820&icon_color=F89820&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurjha10&layout=compact&hide_border=true&bg_color=0d1117&title_color=F89820&text_color=ffffff&langs_count=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankurjha10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F89820&icon_color=F89820&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurjha10&layout=compact&hide_border=true&bg_color=0d1117&title_color=F89820&text_color=ffffff&langs_count=10" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankurjha10&theme=dark&hide_border=true&background=0D1117&ring=F89820&fire=F89820&currStreakLabel=F89820&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+
+<img src="https://nirzak-streak-stats.vercel.app?user=ankurjha10&theme=dark&hide_border=true&background=0D1117&ring=F89820&fire=F89820&currStreakLabel=F89820&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+
 </div>
 
 ---
@@ -114,7 +118,9 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankurjha10&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankurjha10&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" />
+
 </div>
 
 ---
@@ -145,7 +151,7 @@
   ╔══════════════════════════════════════════════════════╗
   ║   "First, solve the problem. Then, write the code."  ║
   ║                                                      ║
-  ║         ☕  Keep coding. Keep shipping.  🚀           ║
+  ║         ☕  Keep coding. Keep shipping.  🚀          ║
   ╚══════════════════════════════════════════════════════╝
 ```
 
