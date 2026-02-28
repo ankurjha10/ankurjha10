@@ -139,7 +139,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ankurjha10/ankurjha10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankurjha10/ankurjha10/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
