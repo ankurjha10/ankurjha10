@@ -49,7 +49,6 @@
         <tr><td>📍 <strong>Location</strong></td><td>India 🇮🇳</td></tr>
         <tr><td>💬 <strong>Ask me about</strong></td><td>Java · Spring · Web Dev</td></tr>
         <tr><td>📫 <strong>Reach me at</strong></td><td>jhaankur33@gmail.com</td></tr>
-        <tr><td>⚡ <strong>Fun fact</strong></td><td>git commit -m "fixed bug by creating 3 more"</td></tr>
       </table>
     </td>
   </tr>
