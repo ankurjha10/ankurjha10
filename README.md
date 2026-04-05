@@ -38,7 +38,6 @@
       <p>
         I believe in writing code that is clean, scalable, and actually ships. Currently deep in the Java ecosystem and levelling up every single day.
       </p>
-      <p><em>"I break my code more than I break a sweat — and somehow, that's still called progress." 😄</em></p>
     </td>
     <td width="50%">
       <table>
