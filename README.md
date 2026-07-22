@@ -10,7 +10,7 @@
 ░ ██║  ██║██║ ╚████║██║  ██╗╚██████╔╝██║  ██║   ╚█████╔╝██║  ██║██║  ██║ ░
 ░ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ░
 ░                                                                        ░
-░              ⚡  Full-Stack Java Developer  |  India 🇮🇳  ⚡            ░
+░              ⚡  Full-Stack Java Developer  |  India 🇮🇳  ⚡              ░
 ░                                                                        ░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
@@ -138,7 +138,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankurjha10/ankurjha10/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ankurjha10/ankurjha10/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </div>
 
 ---
